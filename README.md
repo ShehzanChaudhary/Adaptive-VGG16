@@ -24,6 +24,7 @@ Hyperparameter Tuning: Adjust learning rate, batch size, and regularization stre
 Training and Validation: Split the dataset into training, validation, and test sets; train the model and monitor its performance.
 Iterative Improvement: Continuously refine the model by experimenting with different configurations and techniques.
 Error Analysis and Final Evaluation: Analyze misclassified examples and evaluate the model's generalization capabilities on the test set.
+
 Installation
 To run this project locally, follow these steps:
 
