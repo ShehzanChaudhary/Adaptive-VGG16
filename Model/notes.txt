@@ -1,0 +1,41 @@
+cifar10vgg -->
+epochs: 250
+loss: 0.2426 - accuracy: 0.9847 - val_loss: 0.4706 - val_accuracy: 0.9334
+Total params: 15001418 (57.23 MB)
+Trainable params: 14991946 (57.19 MB)
+Non-trainable params: 9472 (37.00 KB)
+
+
+v1 -->
+Total params: 9609546 (36.66 MB)
+Trainable params: 9607242 (36.65 MB)
+Non-trainable params: 2304 (9.00 KB)
+
+
+v2 -->
+epochs: 150
+loss: 0.3110 - accuracy: 0.9452 - val_loss: 0.4183 - val_accuracy: 0.9207
+Test Accuracy: 0.9207
+Total params: 4756042 (18.14 MB)
+Trainable params: 4754250 (18.14 MB)
+Non-trainable params: 1792 (7.00 KB)
+
+
+v3 -->
+epochs: 150
+loss: 0.3315 - accuracy: 0.9293 - val_loss: 0.3925 - val_accuracy: 0.9144
+Test Accuracy: 0.9144
+Total params: 2510794 (9.58 MB)
+Trainable params: 2509258 (9.57 MB)
+Non-trainable params: 1536 (6.00 KB)
+
+
+v4 -->
+epochs: 150
+loss: 0.2799 - accuracy: 0.9459 - val_loss: 0.3837 - val_accuracy: 0.9197
+Test Accuracy: 0.9197
+Total params: 1086026 (4.14 MB)
+Trainable params: 1084234 (4.14 MB)
+Non-trainable params: 1792 (7.00 KB)
+
+
