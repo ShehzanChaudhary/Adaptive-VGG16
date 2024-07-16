@@ -10,6 +10,7 @@ Customize and optimize the VGG16 convolutional neural network architecture.
 Optimize hyperparameters such as learning rate, batch size, and regularization strength to maximize performance while preventing overfitting.
 Employ training and validation techniques to ensure the model generalizes well to new data.
 Iterate on the model design and conduct error analysis to continuously improve the system.
+
 VGG16 Architecture
 Below is the block diagram of the VGG16 architecture used in this project:
 
